@@ -67,6 +67,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation(libs.androidx.appcompat)
-    implementation ("com.squareup.okhttp3:okhttp:4.9.2")
+    implementation (libs.okhttp)
 }
 
