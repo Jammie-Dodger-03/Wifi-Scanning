@@ -1,4 +1,4 @@
-package com.example.factodesignedapp
+package com.example.wifiscanner
 
 import org.junit.Test
 

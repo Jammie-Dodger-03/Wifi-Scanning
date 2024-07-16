@@ -1,4 +1,4 @@
-package com.example.factodesignedapp.ui.theme
+package com.example.wifiscanner.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

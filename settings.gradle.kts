@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Facto Designed App"
+rootProject.name = "Wifi Scanner"
 include(":app")
